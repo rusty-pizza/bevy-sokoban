@@ -1,0 +1,4 @@
+[env]
+SFML_STATIC = "true"
+SFML_INCLUDE_DIR = { value = "ext/include", relative = true }
+SFML_LIBS_DIR = { value = "ext/lib", relative = true }
